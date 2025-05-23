@@ -1,0 +1,24 @@
+Uber Stock Analysis Summary Statistics
+=====================================
+
+Start Date: 2019-05-10
+End Date: 2025-02-05
+Trading Days: 1444
+Initial Price: 41.57
+Final Price: 64.48
+Overall Return (%): 55.11
+Annualized Return (%): 7.94
+Average Daily Return (%): 0.09
+Median Daily Return (%): -0.03
+Max Daily Gain (%): 38.26
+Max Daily Loss (%): -21.63
+Daily Return Std Dev (%): 3.36
+Positive Days (%): 48.82
+Negative Days (%): 50.55
+Average Volume: 24298002.88
+Max Volume: 364231800
+Min Volume: 3380000
+Highest Price: 87.00
+Lowest Price: 13.71
+Price Range: 73.29
+Average Volatility (20d): 3.03
